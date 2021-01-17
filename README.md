@@ -29,6 +29,6 @@
 
 1.运行程序，建立socket套接字，完成服务端初始化，等待客户端发送请求。
 
-![image-20210117123339848](C:\Users\FireFly\AppData\Roaming\Typora\typora-user-images\image-20210117123339848.png)
+
 
 
