@@ -27,8 +27,9 @@
 
 作为客户端：建立socket，与用户邮箱服务端建立SMTP连接，将内容循环发送给多个收件人，记录日志存入本地，结束连接。
 
-1.运行程序，建立socket套接字，完成服务端初始化，等待客户端发送请求。
-![image](https://github.com/zhangchi991022/smtp-socket/tree/main/image/1.PNG)
+**1.运行程序，建立socket套接字，完成服务端初始化，等待客户端发送请求。**
+
+![image](https://github.com/zhangchi991022/smtp-socket/blob/main/image/1.PNG)
 
 
 
